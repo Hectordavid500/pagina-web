@@ -25,6 +25,9 @@ div#imgs{
 	border-bottom: 2px solid black;
 	top: -21px;
 }
+div#imgs div p{
+	font-family: 'Roboto', sans-serif;
+}
 div#imgs div{
 	display: inline-block;
     position: relative;
