@@ -2,7 +2,7 @@ header{
 	position: relative;
 	width: 100%;
 	height: 150px;
-	background: red;
+	background: green;
 	top: -21px;
 	text-align: center;
 }
@@ -20,7 +20,6 @@ div#imgs{
 	position: relative;
 	width: 100%;
 	height: 400px;
-	background: white;
 	border-top: 2px solid black;
 	border-bottom: 2px solid black;
 	top: -21px;
@@ -33,7 +32,6 @@ div#imgs div{
     position: relative;
 	width: 250px;
 	height: 250px;
-	background: red;
 	margin-left: 70px;
 	margin-top:  60px;
 }
@@ -46,6 +44,6 @@ footer{
 	position: relative;
 	width: 100%;
 	height: 150px;
-	background: red;
+	background: green;
 	top: -21px;
 }
